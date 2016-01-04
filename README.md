@@ -7,4 +7,4 @@ Please use it instead.
 
 ## License
 
-[MIT](http://makimoto.mit-license.org/)
+MIT
